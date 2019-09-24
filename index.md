@@ -1,5 +1,5 @@
 ## About Me
-I'm a young and motivated computer engineering graduate with project experience with FPGAs and image processing. As well, I have two years of Co-Operative experience in the technology and utilities industry.
+I'm a young and motivated computer engineering graduate with project experience in embedded systems design and image processing. As well, I have two years of Co-Operative experience with the technologies and utilities industries.
 
 Through my internships as a Project Analyst and a Document Control Specialist, I have demostrated how to effectively reduce timelines on projects, meet key objectives and handle large workloads in a fast-paced environment. 
 
