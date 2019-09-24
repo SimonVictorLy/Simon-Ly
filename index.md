@@ -7,7 +7,7 @@ Through my internships as a Project Analyst and a Document Control Specialist, I
 I have highlighted a few projects below that I have thoroughly enjoyed and learned a lot from.
 
 #### Project 1: Image Decompressor
-This project was completed during my time as an undergrad at McMaster University where I had to design hardware to reverse the McMaster Image Compression (.mic10) algorithm using Verilog on an FPGA.
+This project was `completed` during my time as an undergrad at McMaster University where I had to design hardware to reverse the McMaster Image Compression (.mic10) algorithm using Verilog on an FPGA.
 
 ```markdown
 Syntax highlighted code block
