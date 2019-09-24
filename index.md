@@ -3,8 +3,8 @@ I'm a young and motivated computer engineering graduate with project experience 
 
 Through my internships as a Project Analyst and a Document Control Specialist, I have demostrated how to effectively reduce timelines on projects, meet key objectives and handle large workloads in a fast-paced environment. 
 
-### Markdown
-
+### Projects
+#### Project 1
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
