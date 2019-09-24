@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## About Me
+I'm a young and motivated computer engineering graduate with project experience with FPGAs and image processing. As well, I have two years of Co-Operative experience in the technology and utilities industry.
 
-You can use the [editor on GitHub](https://github.com/SimonVictorLy/Simon-Ly/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Through my internships as a Project Analyst and a Document Control Specialist, I have demostrated how to effectively reduce timelines on projects, meet key objectives and handle large workloads in a fast-paced environment. 
 
 ### Markdown
 
