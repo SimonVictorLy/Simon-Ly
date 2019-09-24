@@ -1,2 +1,0 @@
-# Simon Ly
-Project Summary
