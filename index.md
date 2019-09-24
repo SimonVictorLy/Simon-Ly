@@ -4,8 +4,10 @@ I'm a young and motivated computer engineering graduate with project experience 
 Through my internships as a Project Analyst and a Document Control Specialist, I have demostrated how to effectively reduce timelines on projects, meet key objectives and handle large workloads in a fast-paced environment. 
 
 ### Projects
-#### Project 1
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have highlighted a few projects below that I have thoroughly enjoyed and learned a lot from.
+
+#### Project 1: Image Decompressor
+This project was completed during my time as an undergrad at McMaster University where I had to design hardware to reverse the McMaster Image Compression (.mic10) algorithm using Verilog on an FPGA.
 
 ```markdown
 Syntax highlighted code block
@@ -27,10 +29,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### Project 2: Raytracing Reflective objects using C++ and OpenGL
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimonVictorLy/Simon-Ly/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Project 3: Halftone Image Restoriation using MATLAB
 
-### Support or Contact
+### Additional Interests
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I also enjoy video editing, photoshop, strength training, volleyball, badminton and rock climbing.
+
+### Contact Information
+
+Feel free to reach out to me on my [Linkedin](https://www.linkedin.com/in/simon-v-ly/) or email me at simon.victor.ly@gmail.com to dicuss our mutual interests.
