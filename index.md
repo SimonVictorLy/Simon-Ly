@@ -4,7 +4,7 @@ I'm a young and motivated computer engineering graduate with project experience 
 Through my internships as a Project Analyst and a Document Control Specialist, I have demostrated how to effectively reduce timelines on projects, meet key objectives and handle large workloads in fast-paced environments. 
 
 ### Projects
-I have highlighted a few projects below that I have thoroughly enjoyed and learned a lot from.
+I have highlighted a few projects below that I enjoyed and learned a lot from.
 
 #### Project 1: Image Decompressor
 This project was completed during my time as an undergrad at McMaster University where I had to design hardware to reverse the McMaster Image Compression (.mic10) algorithm using Verilog on an FPGA.
