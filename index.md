@@ -8,6 +8,7 @@ I have highlighted a few projects below that I enjoyed and learned a lot from.
 
 #### Project 1: Image Decompressor
 [HW-Image-Decompressor](https://github.com/SimonVictorLy/HW-Image-Decompressor)
+
 This project was completed during my time as an undergrad at McMaster University where I had to design hardware to reverse the McMaster Image Compression (.mic10) algorithm using Verilog on an FPGA.
 
 ```markdown
