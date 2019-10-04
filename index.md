@@ -7,6 +7,7 @@ Through my internships as a Project Analyst and a Document Control Specialist, I
 I have highlighted a few projects below that I enjoyed and learned a lot from.
 
 #### Project 1: Image Decompressor
+[HW-Image-Decompressor](https://github.com/SimonVictorLy/HW-Image-Decompressor)
 This project was completed during my time as an undergrad at McMaster University where I had to design hardware to reverse the McMaster Image Compression (.mic10) algorithm using Verilog on an FPGA.
 
 ```markdown
@@ -30,9 +31,9 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 #### Project 2: Raytracing Reflective objects using C++ and OpenGL
-
+[Halftone-Image-Restoration](https://github.com/SimonVictorLy/Halftone-Image-Restoration)
 #### Project 3: Halftone Image Restoriation using MATLAB
-
+[Optimized Contrast Tone Mapping](https://github.com/SimonVictorLy/OCTM-Project)
 ### Additional Interests
 
 I also enjoy video editing, photoshop, strength training, volleyball, badminton and rock climbing.
