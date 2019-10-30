@@ -1,5 +1,5 @@
 ## About Me
-I'm a young and motivated computer engineering graduate with project experience in embedded systems design and image processing. As well, I have two years of Co-Operative experience dealing with cost analytics and VBA automation.
+I am a recent computer engineering graduate from McMaster University with experience in embedded systems design and image processing. As well, I have two years of co-operative experience working with data/cost analytics and VBA automation.
 
 Through my internships as a Project Analyst and a Document Control Specialist, I have demostrated how to effectively reduce timelines on projects, meet key objectives and handle large workloads in fast-paced environments. 
 
@@ -10,6 +10,8 @@ I have highlighted a few projects below that I enjoyed and learned a lot from.
 [HW-Image-Decompressor](https://github.com/SimonVictorLy/HW-Image-Decompressor)
 
 This project was completed during my time as an undergrad at McMaster University where I had to design hardware to reverse the McMaster Image Compression (.mic10) algorithm using Verilog on an FPGA.
+
+![Image](https://raw.githubusercontent.com/SimonVictorLy/Simon-Ly/master/imgs/Screenshot%20from%202019-09-25%2020-12-26.png)
 
 ```markdown
 Syntax highlighted code block
