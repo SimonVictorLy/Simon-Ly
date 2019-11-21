@@ -50,13 +50,12 @@ Syntax highlighted code block
 
 I also enjoy video editing, photoshop, strength training, volleyball, badminton and rock climbing.
 
-
 ## Places Traveled 
 Canada:
-	New Brunswick
-	Nova Scotia
-	Ontario
-	Prince Edward Island
+New Brunswick
+Nova Scotia
+Ontario
+Prince Edward Island
 EU:
 	Amsterdam, NL
 	Berlin, DE
