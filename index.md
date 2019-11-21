@@ -3,7 +3,7 @@ I am a recent computer engineering graduate from McMaster University in Canada w
 
 Through my internships as a Project Analyst and a Document Control Specialist, I have demostrated how to effectively reduce timelines on projects, meet key objectives and handle large workloads in fast-paced environments. 
 
-### Projects
+### Projects (INCOMPLETE)
 I have highlighted a few projects below that I enjoyed and learned a lot from.
 
 #### Project 1: Image Decompressor
