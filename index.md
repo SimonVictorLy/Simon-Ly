@@ -24,27 +24,52 @@ Now we have reduced the colour aspect of our image but can we reduce the detail?
 The scaling from the previous step will leave a bunch of zeros when saving the image. The last step is to save the image in lowest to highest frequency and use bit headers to encode common senerios. These senarios include a run of zeros, ones, negative ones, small numbers(-8 to 7) and everything else (-256 to 255).
 
 #### Project 2: Raytracing Reflective objects using C++ and OpenGL
-[Halftone-Image-Restoration](https://github.com/SimonVictorLy/Halftone-Image-Restoration)
+[Reflective Raytracing](https://github.com/SimonVictorLy/reflective-ray-tracing)
+
+This project was my first real project in C++ where it required compliation of
+multiple classes, headers, inclusions and source files. It was very mind
+blowing learning about the amount of linear algebra required for light tracing,
+object transformations and camera scaling. For someone who loves video games, It really helped me put into perspective the amount of work required to implement simple things. As well, the optimization choices that can be made to reduce the load on the users' computers. Knowledge of data structures and algorithms was crutial in ensuring a polished, modular and scalable peice of code.
+
+Disclaimer: The original render was created in Windows 10 on Visual Studio. The
+migration to Ubuntu using the GNU complier did not render the scene correctly
+and needs additional modifications.
+![Reflective Scene](https://raw.githubusercontent.com/SimonVictorLy/reflective-ray-tracing/master/rendering.png)
 
 #### Project 3: Halftone Image Restoriation using MATLAB
-[Optimized Contrast Tone Mapping](https://github.com/SimonVictorLy/OCTM-Project)
+[Halftone-Image-Restoration](https://github.com/SimonVictorLy/Halftone-Image-Restoration)
+
+This project was part of an open-ended final assignment where we needed to
+restore an image affected by halftone distortion. Initially, I have tried fixing the image using
+loew frequency filters and mathematical averaging filters but it was not clear
+enough for me. I decided to take the question further to develop my own
+model-based approach to restoring the image. As I have mentioned above, the
+lower frequencies must be preserved to keep the general description of the
+image. My goal was to find the patterns in the higher frequency image that represented the halftone distortion and mask it out.
+
+My solution was to recreate the halftone distortion using a harmonic mask
+because in the frequency spectrum they looked very similar. The hard part of
+this was automating the selection of harmonic offset, order and magnitude.   
 
 ```markdown
-Syntax highlighted code block
+# Snippet of Code
 
-# Header 1
-## Header 2
-### Header 3
+### Create Harmonic Mask
+img_xn_x = repmat(xn,larger_size,1);
+img_xn_y = img_xn_x';
+img_xn = img_xn_y.*img_xn_x;
+img_xn = img_xn(1:row_count, 1:col_count);
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Fourier of Harmonic Mask
+F_a = abs(fftshift(fft2(img_xn)));
+F_a = imfilter(F_a, gaus_mat,'conv');
+F_a = (1-rescale(F_a,0,1));
 
 **Bold** and _Italic_ and `Code` text
 
 ```
+![Halftone Images](https://raw.githubusercontent.com/SimonVictorLy/Halftone-Image-Restoration/master/old_method.png)
+
 
 ### Additional Interests
 
