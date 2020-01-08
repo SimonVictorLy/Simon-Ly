@@ -77,29 +77,29 @@ I also enjoy video editing, photoshop, strength training, volleyball, badminton 
 
 
 ## Places Traveled 
-Canada:
-	New Brunswick
-	Nova Scotia
-	Ontario
-	Prince Edward Island
-EU:
-	Amsterdam, NL
-	Berlin, DE
-	Bergen, NO
-	Copenhagen, DK
-	Malmo, SE
-UK:
-	London, EN
+Canada:  
+	New Brunswick  
+	Nova Scotia  
+	Ontario  
+	Prince Edward Island  
+EU:  
+	Amsterdam, NL  
+	Berlin, DE  
+	Bergen, NO  
+	Copenhagen, DK  
+	Malmo, SE  
+UK:  
+	London, EN  
 US:	
-	Boston, MA
-	Buffalo, NY
-	Chicago, IL
-	Las Vegas, CA
-	Los Angeles, CA
-	New York, NY
-	Orlando, FL
-Others:
-	Punta Cana, Dominican Republic
+	Boston, MA  
+	Buffalo, NY  
+	Chicago, IL  
+	Las Vegas, CA  
+	Los Angeles, CA  
+	New York, NY  
+	Orlando, FL  
+Others:  
+	Punta Cana, Dominican Republic  
 
 ### Contact Information
 
