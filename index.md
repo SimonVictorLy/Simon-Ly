@@ -76,45 +76,32 @@ F_a = (1-rescale(F_a,0,1));
 
 I also enjoy video editing, photoshop, strength training, volleyball, badminton and rock climbing.
 
-<<<<<<< HEAD
-
-## Places Traveled 
-Canada:  
-	New Brunswick  
-	Nova Scotia  
-	Ontario  
-	Prince Edward Island  
-EU:  
-	Amsterdam, NL  
-	Berlin, DE  
-	Bergen, NO  
-	Copenhagen, DK  
-	Malmo, SE  
-UK:  
-	London, EN  
-=======
 #### Places Traveled 
 Canada:  
-	New Brunswick  
-	Nova Scotia  
-	Ontario  
-	Prince Edward Island  
+  New Brunswick  
+  Nova Scotia  
+  Ontario  
+  Prince Edward Island  
+  
 EU:  
-	Amsterdam, NL  
-	Berlin, DE  
-	Bergen, NO  
-	Copenhagen, DK  
-	Malmo, SE  
+  Amsterdam, NL  
+  Berlin, DE  
+  Bergen, NO  
+  Copenhagen, DK  
+  Malmo, SE  
+  
 UK:  
-	London, EN  
+  London, EN  
+  
 US:  
-	Boston, MA  
-	Buffalo, NY  
-	Chicago, IL  
-	Las Vegas, CA  
-	Los Angeles, CA  
-	New York, NY  
-	Orlando, FL  
+  Boston, MA  
+  Buffalo, NY  
+  Chicago, IL  
+  Las Vegas, CA  
+  Los Angeles, CA  
+  New York, NY  
+  Orlando, FL  
+  
 Others:  
   Punta Cana, Dominican Republic  
 
