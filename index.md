@@ -94,20 +94,20 @@ UK:
 	London, EN  
 =======
 #### Places Traveled 
-Canada:>
-	New Brunswick
-	Nova Scotia
-	Ontario
-	Prince Edward Island
-EU:>
-	Amsterdam, NL
-	Berlin, DE
-	Bergen, NO
-	Copenhagen, DK
-	Malmo, SE
-UK:>
-	London, EN
-US:>	
+Canada:  
+	New Brunswick  
+	Nova Scotia  
+	Ontario  
+	Prince Edward Island  
+EU:  
+	Amsterdam, NL  
+	Berlin, DE  
+	Bergen, NO  
+	Copenhagen, DK  
+	Malmo, SE  
+UK:  
+	London, EN  
+US:  
 	Boston, MA  
 	Buffalo, NY  
 	Chicago, IL  
@@ -115,7 +115,7 @@ US:>
 	Los Angeles, CA  
 	New York, NY  
 	Orlando, FL  
-Others:>
+Others:  
   Punta Cana, Dominican Republic  
 
 ### Contact Information
