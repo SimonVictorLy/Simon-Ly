@@ -75,6 +75,7 @@ F_a = (1-rescale(F_a,0,1));
 
 I also enjoy video editing, photoshop, strength training, volleyball, badminton and rock climbing.
 
+<<<<<<< HEAD
 
 ## Places Traveled 
 Canada:  
@@ -90,6 +91,22 @@ EU:
 	Malmo, SE  
 UK:  
 	London, EN  
+=======
+#### Places Traveled 
+Canada:
+	New Brunswick
+	Nova Scotia
+	Ontario
+	Prince Edward Island
+EU:
+	Amsterdam, NL
+	Berlin, DE
+	Bergen, NO
+	Copenhagen, DK
+	Malmo, SE
+UK:
+	London, EN
+>>>>>>> e2dce4280810d5ccf5c6e8c3fdb33bf64c2a7cd5
 US:	
 	Boston, MA  
 	Buffalo, NY  
