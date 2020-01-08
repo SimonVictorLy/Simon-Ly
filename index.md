@@ -34,6 +34,7 @@ object transformations and camera scaling. For someone who loves video games, It
 Disclaimer: The original render was created in Windows 10 on Visual Studio. The
 migration to Ubuntu using the GNU complier did not render the scene correctly
 and needs additional modifications.
+
 ![Reflective Scene](https://raw.githubusercontent.com/SimonVictorLy/reflective-ray-tracing/master/rendering.png)
 
 #### Project 3: Halftone Image Restoriation using MATLAB
@@ -93,21 +94,20 @@ UK:
 	London, EN  
 =======
 #### Places Traveled 
-Canada:
+Canada:>
 	New Brunswick
 	Nova Scotia
 	Ontario
 	Prince Edward Island
-EU:
+EU:>
 	Amsterdam, NL
 	Berlin, DE
 	Bergen, NO
 	Copenhagen, DK
 	Malmo, SE
-UK:
+UK:>
 	London, EN
->>>>>>> e2dce4280810d5ccf5c6e8c3fdb33bf64c2a7cd5
-US:	
+US:>	
 	Boston, MA  
 	Buffalo, NY  
 	Chicago, IL  
@@ -115,8 +115,8 @@ US:
 	Los Angeles, CA  
 	New York, NY  
 	Orlando, FL  
-Others:  
-	Punta Cana, Dominican Republic  
+Others:>
+  Punta Cana, Dominican Republic  
 
 ### Contact Information
 
